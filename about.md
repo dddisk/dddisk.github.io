@@ -4,12 +4,12 @@ title: Jekkly now fork testblog
 permalink: /about/
 ---
 
-github.ioのブログテスト
+githubのブログを作ってみた
 
 ### More Information
 
-これからカスタマイズして行く予定
+ To Be Announced
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[email@test.com](mailto:email@domain.com)
