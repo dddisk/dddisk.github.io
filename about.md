@@ -1,14 +1,14 @@
 ---
 layout: page
-title: About
+title: Jekkly now fork testblog
 permalink: /about/
 ---
 
-Some information about you!
+github.ioのブログテスト
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+これからカスタマイズして行く予定
 
 ### Contact me
 
