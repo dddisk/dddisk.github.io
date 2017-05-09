@@ -6,7 +6,7 @@
 name: daisuke shiroma
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: test blog
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://dddisk.github.io/images/16838722.png
@@ -19,14 +19,14 @@ avatar: https://dddisk.github.io/images/16838722.png
 footer-links:
   dribbble:
   email:
-  facebook:
+  facebook: profile.php?id=100006440463479
   flickr:
-  github: barryclark/jekyll-now
+  github: dddisk
   instagram:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  twitter: 217diskkk1
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
